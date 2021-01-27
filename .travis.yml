@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 dist: xenial
 before_install:
   - sudo apt-get update
