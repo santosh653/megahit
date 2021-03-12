@@ -8,6 +8,7 @@ before_install:
 language: python
 python:
   - "3.9"
+  - "3.8"
   - "nightly"
 script:
   - mkdir build
